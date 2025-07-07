@@ -1,0 +1,20 @@
+{
+  "name": "@romiraxp/js_platforms",
+  "version": "1.0.0",
+  "description": "**Важно**: каждая задача выполняется в виде отдельного проекта с собственным GitHub репозиторием.",
+  "homepage": "https://github.com/romiraxp/js_platforms#readme",
+  "bugs": {
+    "url": "https://github.com/romiraxp/js_platforms/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/romiraxp/js_platforms.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
